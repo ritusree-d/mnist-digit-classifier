@@ -12,7 +12,7 @@ A CNN-based handwritten digit classifier built using TensorFlow and Google Colab
 Python, TensorFlow, NumPy, Matplotlib, Google Colab
 
 ## Accuracy
-98%+
+97.58%
 
 ## How to Run
 Open notebook in Google Colab and run all cells.
